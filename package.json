@@ -36,7 +36,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/Cefz19/first_React_proyect",
+  "homepage": "https://github.com/Cefz19/first_React_proyect/",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.0.0"
