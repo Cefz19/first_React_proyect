@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cefz19/first_React_proyect/static/css/main.cc30d2a0.css",
+    "main.js": "/Cefz19/first_React_proyect/static/js/main.6ad034d0.js",
+    "index.html": "/Cefz19/first_React_proyect/index.html",
+    "static/media/delete.svg": "/Cefz19/first_React_proyect/static/media/delete.84e4a932c97ebd0c6c78dd05068de6fb.svg",
+    "static/media/check.svg": "/Cefz19/first_React_proyect/static/media/check.869a5e77f19ab8e1fd324a52c184d1b0.svg",
+    "main.cc30d2a0.css.map": "/Cefz19/first_React_proyect/static/css/main.cc30d2a0.css.map",
+    "main.6ad034d0.js.map": "/Cefz19/first_React_proyect/static/js/main.6ad034d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc30d2a0.css",
+    "static/js/main.6ad034d0.js"
+  ]
+}
